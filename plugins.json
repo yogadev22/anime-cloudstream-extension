@@ -1,10 +1,10 @@
 [
     {
         "iconUrl": "https://lh3.googleusercontent.com/zwKn_6sdYOdIiWg6Gtnx-Ar2DrVamlADnPN8BE4f84-a9aRo2Zc7mxbW5Qd26Z8cPFc",
-        "fileHash": "sha256-c7bc3c8939841d2dd65a227d493135b039bc532104968993e89c904745d0344a",
+        "fileHash": "sha256-937d45021634f377850f983a7e41121df2c2c30d224333d9a56ea1c1e5722ef6",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/yogadev22/anime-cloudstream-extension",
-        "fileSize": 29426,
+        "fileSize": 29419,
         "status": 1,
         "language": "id",
         "authors": [
@@ -16,10 +16,10 @@
             "Anime"
         ],
         "version": 3,
-        "internalName": "AnimeasuProvider",
+        "internalName": "AnimasuProvider",
         "description": "Animasu \u2014 Streaming Anime Subtitle Indonesia",
-        "url": "https://raw.githubusercontent.com/yogadev22/anime-cloudstream-extension/builds/AnimeasuProvider.cs3",
-        "name": "AnimeasuProvider"
+        "url": "https://raw.githubusercontent.com/yogadev22/anime-cloudstream-extension/builds/AnimasuProvider.cs3",
+        "name": "AnimasuProvider"
     },
     {
         "iconUrl": "https://aghanim.xyz/wp-content/themes/animesail/assets/images/ico.png",
