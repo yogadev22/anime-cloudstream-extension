@@ -1,0 +1,46 @@
+[
+    {
+        "iconUrl": "https://aghanim.xyz/wp-content/themes/animesail/assets/images/ico.png",
+        "fileHash": "sha256-63e5e8ca8be48ccae50af65bebc7a9b45deed910e981f63658b007468e7145f4",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/yogadev22/anime-cloudstream-extension",
+        "fileSize": 34482,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Miku"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 6,
+        "internalName": "AnimeSailProvider",
+        "description": "AnimeSail \u2014 Streaming Anime, Donghua Subtitle Indonesia",
+        "url": "https://raw.githubusercontent.com/yogadev22/anime-cloudstream-extension/builds/AnimeSailProvider.cs3",
+        "name": "AnimeSailProvider"
+    },
+    {
+        "iconUrl": "https://lh3.googleusercontent.com/zwKn_6sdYOdIiWg6Gtnx-Ar2DrVamlADnPN8BE4f84-a9aRo2Zc7mxbW5Qd26Z8cPFc",
+        "fileHash": "sha256-0f52a024c061799dbadcd910ea0fe1b8b29e1e459d75e34a3d17fed529d31502",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/yogadev22/anime-cloudstream-extension",
+        "fileSize": 29881,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Miku"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "OVA",
+            "Anime"
+        ],
+        "version": 3,
+        "internalName": "SamehadakuProvider",
+        "description": "Samehadaku \u2014 Streaming Anime Subtitle Indonesia",
+        "url": "https://raw.githubusercontent.com/yogadev22/anime-cloudstream-extension/builds/SamehadakuProvider.cs3",
+        "name": "SamehadakuProvider"
+    }
+]
