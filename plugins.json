@@ -45,10 +45,10 @@
     },
     {
         "iconUrl": "https://lh3.googleusercontent.com/zwKn_6sdYOdIiWg6Gtnx-Ar2DrVamlADnPN8BE4f84-a9aRo2Zc7mxbW5Qd26Z8cPFc",
-        "fileHash": "sha256-3dbd4504defd86d00f2114501c2e61eef51b068baa7f4e88f4362c7993747efd",
+        "fileHash": "sha256-51549d3339b622ce1d374aea383061259818f55929b056f125482bfd64fa8778",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/yogadev22/anime-cloudstream-extension",
-        "fileSize": 29512,
+        "fileSize": 29457,
         "status": 1,
         "language": "id",
         "authors": [
